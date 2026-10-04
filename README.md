@@ -17,7 +17,7 @@ Real-time topology, live telemetry, and a local AI that actually knows your clus
 </p>
 
 <p>
-  <a href="https://github.com/AdamYahmadi/InfraLens/releases"><b>⬇ Download</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/AdemYahmadi/InfraLens/releases"><b>⬇ Download</b></a> &nbsp;·&nbsp;
   <a href="#-features">Features</a> &nbsp;·&nbsp;
   <a href="#-install">Install</a> &nbsp;·&nbsp;
   <a href="#-screenshots">Screenshots</a> &nbsp;·&nbsp;
@@ -59,7 +59,7 @@ InfraLens connects to the Proxmox API, discovers every node, VM, and LXC contain
 
 ## ⬇ Install
 
-InfraLens ships as a native desktop app for **macOS** and **Linux**, built with [Tauri 2](https://tauri.app). Grab the latest build from the [**Releases**](https://github.com/AdamYahmadi/InfraLens/releases) page.
+InfraLens ships as a native desktop app for **macOS** and **Linux**, built with [Tauri 2](https://tauri.app). Grab the latest build from the [**Releases**](https://github.com/AdemYahmadi/InfraLens/releases) page.
 
 | Platform | File |
 |---|---|
@@ -149,7 +149,7 @@ Run from source or contribute.
 
 ```bash
 # 1. Clone
-git clone https://github.com/AdamYahmadi/InfraLens.git
+git clone https://github.com/AdemYahmadi/InfraLens.git
 cd InfraLens
 
 # 2. Backend  ->  http://127.0.0.1:8756
